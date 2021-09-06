@@ -1,0 +1,7 @@
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\FlowerBot.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\FlowerBot.deps.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\FlowerBot.runtimeconfig.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\FlowerBot.pdb
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.LexEvents.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll

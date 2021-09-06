@@ -1,0 +1,16 @@
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\FlowerBot.deps.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\FlowerBot.runtimeconfig.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\FlowerBot.runtimeconfig.dev.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\FlowerBot.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\FlowerBot.pdb
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.LexEvents.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.csprojAssemblyReference.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.AssemblyInfoInputs.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.AssemblyInfo.cs
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.csproj.CoreCompileInputs.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.csproj.CopyComplete
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.pdb
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Release\netcoreapp3.1\linux-x64\FlowerBot.genruntimeconfig.cache

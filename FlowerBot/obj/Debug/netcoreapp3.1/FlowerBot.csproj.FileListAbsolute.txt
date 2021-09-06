@@ -1,0 +1,16 @@
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\FlowerBot.deps.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\FlowerBot.runtimeconfig.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\FlowerBot.runtimeconfig.dev.json
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\FlowerBot.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\FlowerBot.pdb
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\Amazon.Lambda.LexEvents.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.csprojAssemblyReference.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.AssemblyInfoInputs.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.AssemblyInfo.cs
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.csproj.CoreCompileInputs.cache
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.csproj.CopyComplete
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.dll
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.pdb
+D:\AWS\Lex\FlowerBot\FlowerBot\obj\Debug\netcoreapp3.1\FlowerBot.genruntimeconfig.cache
